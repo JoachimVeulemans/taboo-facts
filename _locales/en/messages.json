@@ -1,0 +1,10 @@
+{
+    "appName": {
+      "message": "Taboo Facts",
+      "description": "Taboo Facts"
+    },
+    "appDesc": {
+      "message": "Facts & myths about topics that are taboo in our current society.",
+      "description":"Facts & myths about topics that are taboo in our current society."
+    }
+}
